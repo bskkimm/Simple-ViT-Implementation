@@ -18,4 +18,4 @@ Then, implement ViT step by step using `tutorial_from_scratch.ipynb`
 
 | Model         | Dataset   | Train Accuracy | Test Accuracy | GPU Used       | Training Time     |
 |---------------|-----------|----------------|---------------|----------------|-------------------|
-| ViT-B/{8} | CIFAR-10 | 91.39%         | 77.17%        | RTX 4070 Laptop | ~2.5 hours         |
+| ViT-B/{8} | CIFAR-10 | 91.39%         | 77.17%        | RTX 4070 Laptop | 2.5 hours         |
